@@ -9,5 +9,6 @@
     <project lock="true"  key="T4D-Suites"  remote="origin" name="libT4J-Sample"    default="default" revision="main" path="Tools/Jenkins-CLI/generated-lib/Sample" />
     <symbolic key="LOCAL" name="Users"      origin="$Tools4Dev_PATH/Team/Default/Users/" path="Users" />
     <symbolic key="LOCAL" name="zshrc"    origin="$HOME/.zshrc" path="$WS_ROOT/.zshrc" />
+    <symbolic key="LOCAL" name="t4d" origin="$Tools4Dev_PATH/t4d" path="$T4D_ROOT_PATH/bin/t4d" />
     <symbolic key="LOCAL" name="init" origin="$Tools4Dev_PATH/Templates/init.env" path="$T4D_ROOT_PATH/init" />
 </manifest>
